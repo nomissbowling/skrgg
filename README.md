@@ -2,3 +2,8 @@ skrgg
 =====
 
 skrgg
+
+License
+-------
+
+MIT
